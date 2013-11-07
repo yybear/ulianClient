@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/net/NetHelper.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/resources/config.properties</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/ui/JavaApp.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/ui/MainWin.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/jdbc/DBManager.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/util/ConfigUtils.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/util/FileUtils.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/ex/ServiceException.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/dao/impl/CommonDao.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/resources/sql/ulian.sql</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/ex/ErrorCode.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/resources/errors.properties</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/resources/messages.properties</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/task/UploadDataTask.java</file>
+        <file>file:/D:/Users/ganqing/Documents/Yeahstar/hello-git/Yeahstar-Client/src/java/cn/yeahstar/util/Contants.java</file>
+    </open-files>
+</project-private>
